@@ -1,0 +1,14 @@
+blinker
+click
+cmake
+dlib
+Flask
+importlib-metadata
+imutils
+itsdangerous
+Jinja2
+MarkupSafe
+numpy
+opencv-python
+Werkzeug
+zipp
